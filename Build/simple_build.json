@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
-"productName": "Unity-WebXR-Export",
+"productName": "test2",
 "productVersion": "0.1",
 "dataUrl": "simple_build.data.unityweb",
-"wasmCodeUrl": "simple_build.wasm",
+"wasmCodeUrl": "simple_build.wasm.code.unityweb",
 "wasmFrameworkUrl": "simple_build.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
